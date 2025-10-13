@@ -1,0 +1,34 @@
+theme = "vonge"
+title = "Charlie Hart"
+
+# The URL the site will be built for
+base_url = "https://github.com/chh92-eng/charliehart"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+author = "Charlie Hart"
+bio = "Mechanical engineering student at Cornell interested in transportation, planning, and sustainability."
+logo_image = "images/logo.svg"
+author_image = '/images/charlie1.jpg'
+
+[[extra.content_blocks]]
+block = "hero"
+title = "Hi there, I’m Charlie Hart"
+description_html = "<strong>Mechanical engineering student</strong> passionate about transportation, planning, and sustainability."
+image = "/images/charlie1.jpg"
+image_alt = "Charlie Hart headshot"
+cta_button_link = "#projects"
+cta_button = "See my projects"
+works_button_link = "#about"
+works_button = "Learn more about me"
+
