@@ -2,7 +2,9 @@ theme = "vonge"
 title = "Charlie Hart"
 
 # The URL the site will be built for
-base_url = "https://github.com/chh92-eng/charliehart"
+base_url = "http://127.0.0.1:1111"
+
+
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -18,8 +20,26 @@ highlight_code = true
 [extra]
 author = "Charlie Hart"
 bio = "Mechanical engineering student at Cornell interested in transportation, planning, and sustainability."
-logo_image = "images/logo.svg"
+logo_image = "images/charlie-logo.png"
 author_image = '/images/charlie1.jpg'
+
+navigation = [
+    { url = "$BASE_URL/", title = "Home" },
+    { url = "$BASE_URL/projects/", title = "Projects" },
+    { url = "$BASE_URL/about/", title = "About" },
+    { url = "$BASE_URL/posts/", title = "Blog" }
+]
+
+custom_css = ["css/custom.css"]
+
+social_icons = [
+    { url = "https://github.com/chh92-eng", icon = "GitHub" },
+    { url = "https://www.linkedin.com/in/charlie-h-hart", icon = "Linkedin" },
+    { url = "mailto:chh92@cornell.edu", icon = "/icons/mail.svg" }
+]
+
+
+
 
 [[extra.content_blocks]]
 block = "hero"

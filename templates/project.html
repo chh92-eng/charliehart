@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="section">
+  <div class="container has-text-centered">
+    <h1 class="title">{{ page.title }}</h1>
+    {% if page.extra.image %}
+      <img src="{{ page.extra.image }}" alt="{{ page.title }}" class="project-detail-image">
+    {% endif %}
+    {% if page.content %}
+      <div class="content project-description">
+        {{ page.content | safe }}
+      </div>
+    {% endif %}
+  </div>
+</section>
+{% endblock %}
+
