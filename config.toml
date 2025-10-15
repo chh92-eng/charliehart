@@ -2,7 +2,7 @@ theme = "vonge"
 title = "Charlie Hart"
 
 # The URL the site will be built for
-base_url = "https://chh92-eng.github.io/charliehart/"
+base_url = "https://chh92-eng.github.io/charliehart"
 
 
 
@@ -24,11 +24,12 @@ logo_image = "images/shell.svg"
 author_image = '/images/charlie1.jpg'
 
 navigation = [
-    { url = "$BASE_URL/", title = "Home" },
-    { url = "$BASE_URL/projects/", title = "Projects" },
-    { url = "$BASE_URL/about/", title = "About" },
-    { url = "$BASE_URL/posts/", title = "Blog" }
+    { url = "$BASE_URL", title = "Home" },
+    { url = "$BASE_URLprojects", title = "Projects" },
+    { url = "$BASE_URLabout", title = "About" },
+    { url = "$BASE_URLposts", title = "Blog" }
 ]
+
 
 custom_css = ["css/custom.css"]
 
@@ -51,9 +52,9 @@ title = "Hi there, I’m Charlie Hart"
 description_html = "<strong>Mechanical engineering student</strong> passionate about transportation, planning, and sustainability."
 image = "/images/charlie1.jpg"
 image_alt = "Charlie Hart headshot"
-cta_button_link = "projects"
+cta_button_link = "/projects"
 cta_button = "See my work"
-works_button_link = "about"
+works_button_link = "/about"
 works_button = "Learn more about me"
 
 # PROJECTS

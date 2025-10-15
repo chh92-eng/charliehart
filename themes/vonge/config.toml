@@ -26,8 +26,12 @@ taxonomies = [
 highlight_code = false
 
 [extra]
-logo_image = "images/logo.svg"
-social_media_share_image = "/images/01.jpg"
+author = "Charlie Hart"
+bio = "Mechanical engineering student at Cornell interested in transportation, planning, and sustainability."
+social_media_share_image = "images/charlie1.jpg"
+social_media_title = "Charlie Hart"
+social_media_description = "Mechanical engineering student at Cornell University, passionate about transportation, design, and sustainability."
+logo_image = "images/shell.svg"
 disqus_identifier = ""
 google_analytics = ""
 twitter_handle = ""
