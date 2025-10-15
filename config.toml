@@ -20,7 +20,7 @@ highlight_code = true
 [extra]
 author = "Charlie Hart"
 bio = "Mechanical engineering student at Cornell interested in transportation, planning, and sustainability."
-logo_image = "images/charlie-logo.png"
+logo_image = "images/shell.svg"
 author_image = '/images/charlie1.jpg'
 
 navigation = [
@@ -47,8 +47,8 @@ title = "Hi there, I’m Charlie Hart"
 description_html = "<strong>Mechanical engineering student</strong> passionate about transportation, planning, and sustainability."
 image = "/images/charlie1.jpg"
 image_alt = "Charlie Hart headshot"
-cta_button_link = "#projects"
-cta_button = "See my projects"
-works_button_link = "#about"
+cta_button_link = "/projects"
+cta_button = "See my work"
+works_button_link = "/about/"
 works_button = "Learn more about me"
 

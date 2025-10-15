@@ -80,3 +80,19 @@
   object-position: 50% 80%;
 }
 
+/* --- Fix for unclickable hero buttons --- */
+.c-hero__image {
+  pointer-events: none !important;   /* disables clicks on image layer */
+}
+
+.c-hero__btn,
+.works-button,
+.cta-button {
+  position: relative !important;
+  z-index: 100 !important;            /* guarantees buttons sit on top */
+}
+
+.works-button {
+  pointer-events: auto !important;
+}
+
