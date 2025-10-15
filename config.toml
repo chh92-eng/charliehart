@@ -26,9 +26,9 @@ social_media_share_image = "images/charlie1.jpg"
 
 navigation = [
     { url = "$BASE_URL", title = "Home" },
-    { url = "$BASE_URLprojects", title = "Projects" },
-    { url = "$BASE_URLabout", title = "About" },
-    { url = "$BASE_URLposts", title = "Blog" }
+    { url = "$BASE_URL/projects", title = "Projects" },
+    { url = "$BASE_URL/about", title = "About" },
+    { url = "$BASE_URL/posts", title = "Blog" }
 ]
 
 
