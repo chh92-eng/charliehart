@@ -22,6 +22,7 @@ author = "Charlie Hart"
 bio = "Mechanical engineering student at Cornell interested in transportation, planning, and sustainability."
 logo_image = "images/shell.svg"
 author_image = '/images/charlie1.jpg'
+social_media_share_image = "/images/charlie1.jpg"
 
 navigation = [
     { url = "$BASE_URL", title = "Home" },
