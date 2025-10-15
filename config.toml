@@ -23,6 +23,9 @@ bio = "Mechanical engineering student at Cornell interested in transportation, p
 logo_image = "images/shell.svg"
 author_image = '/images/charlie1.jpg'
 social_media_share_image = "images/charlie1.jpg"
+social_media_title = "Charlie Hart"
+social_media_description = "Mechanical engineering student at Cornell University, passionate about transportation, design, and sustainability."
+
 
 navigation = [
     { url = "$BASE_URL", title = "Home" },
