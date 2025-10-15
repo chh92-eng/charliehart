@@ -2,7 +2,7 @@ theme = "vonge"
 title = "Charlie Hart"
 
 # The URL the site will be built for
-base_url = "http://127.0.0.1:1111"
+base_url = "https://chh92-eng.github.io/charliehart/"
 
 
 
