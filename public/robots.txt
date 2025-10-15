@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://chh92-eng.github.io/charliehart/sitemap.xml
