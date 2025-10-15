@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="section">
+    <div class="container has-text-centered">
+        <h1 class="title">My Works</h1>
+        <p class="subtitle has-text-centered">
+            Previous Projects
+        </p>
+
+        {% if section.pages %}
+        <div class="projects-grid">
+            {% for page in section.pages %}
+	    <a href="{{ page.permalink }}" class="project-item">
+                <div class="project-image">
+                    <img src="{{ page.extra.image }}" alt="{{ page.title }}">
+                    <div class="overlay">
+                        <h2 class="project-title">{{ page.title }}</h2>
+                    </div>
+                </div>
+	    </a>
+            {% endfor %}
+        </div>
+        {% else %}
+        <p>No projects found.</p>
+        {% endif %}
+    </div>
+</section>
+{% endblock %}
+
+
+
