@@ -41,6 +41,10 @@ social_icons = [
 
 
 
+# completely override the theme’s content blocks
+# you can copy this whole section into your personal config.toml
+
+# HERO
 [[extra.content_blocks]]
 block = "hero"
 title = "Hi there, I’m Charlie Hart"
@@ -51,4 +55,31 @@ cta_button_link = "projects"
 cta_button = "See my work"
 works_button_link = "about"
 works_button = "Learn more about me"
+
+# PROJECTS
+[[extra.content_blocks]]
+block = "projects-section"
+title = "Projects"
+description_html = """
+    <p>Some of my most recent work in design, sustainability, and engineering.</p>"""
+link_url = "projects"
+show_projects = true
+
+# BLOG (optional)
+[[extra.content_blocks]]
+block = "blog-section"
+title = "Posts"
+description_html = """
+    <p>Reflections on design, systems, and transportation planning.</p>"""
+link_url = "posts"
+show_posts = true
+
+# CONTACT (optional)
+[[extra.content_blocks]]
+block = "contact-form"
+form_title = "Get in touch"
+form_description = "Reach out — I’d love to hear from you."
+form_success_page = ''
+form_submission_email = "chh92@cornell.edu"
+form_button_text = "Send"
 
