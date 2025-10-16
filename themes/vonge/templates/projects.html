@@ -9,9 +9,6 @@
 
         {# Explicitly get the projects section #}
         {% set projects_section = get_section(path="projects/_index.md") %}
-        {% set pages = projects_section.pages | length > 0
-            ? projects_section.pages
-            : section.pages %}
 
         {% if section.pages | length > 0 %}
         <div class="projects-grid">
