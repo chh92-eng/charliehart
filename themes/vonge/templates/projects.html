@@ -7,9 +7,11 @@
             Previous Projects
         </p>
 
-        {# Try to pull the section pages directly; fallback if not found #}
+        {# Explicitly get the projects section #}
         {% set projects_section = get_section(path="projects/_index.md") %}
-        {% set pages = projects_section.pages | default(section.pages) %}
+        {% set pages = projects_section.pages | length > 0
+            ? projects_section.pages
+            : section.pages %}
 
         {% if section.pages | length > 0 %}
         <div class="projects-grid">
