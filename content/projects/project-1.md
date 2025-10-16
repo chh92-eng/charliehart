@@ -1,6 +1,7 @@
 +++
 title = "LoRaWAN Connection Mapping Device"
 description = "Mapping the range of a LoRaWAN gateway for municipal IoT use cases."
+date = 2025-01-01
 [extra]
 image = "images/project-1.jpg"
 +++
