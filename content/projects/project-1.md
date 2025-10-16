@@ -4,7 +4,7 @@ description = "Mapping the range of a LoRaWAN gateway for municipal IoT use case
 date = 2025-01-01
 template = "project.html"
 [extra]
-image = "images/project-1.jpg"
+image = "/images/project-1.jpg"
 +++
 
 As part of my undergraduate degree, I completed an introductory course in Internet of Things Technology (Cornell University MAE 4220).  
