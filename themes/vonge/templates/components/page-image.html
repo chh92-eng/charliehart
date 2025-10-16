@@ -5,7 +5,7 @@
     <div class="col col-12">
       <div class="{{c}} animate">
         {% set image_url = config.base_url ~ '/' ~ image %}
-        <img loading="lazy" src="{{ image_url }}" alt="{{ image_alt }}">
+        <img loading="lazy" src="{{ get_url(path=image) | safe }}" alt="{{ image_alt }}">
       </div>
     </div>
   </div>
