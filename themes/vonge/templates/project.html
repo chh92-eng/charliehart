@@ -7,7 +7,11 @@
 
   {{ page_heading::page_heading(taxonomies = page.taxonomies, title = page.title, description = page.description) }}
 
-  {{ page_image::page_image(image = page.extra.image, image_alt = page.title) }}
+  {% if page.extra.image %}
+    {{ page_image::page_image(image = page.extra.image, image_alt = page.title) }}
+  {% else %}
+    <div class="container"><p style="text-align:center;">(no image found)</p></div>
+  {% endif %}
 
   <div class="page animate">
     {{ page.content | safe }}
