@@ -6,9 +6,19 @@
         <p class="subtitle has-text-centered">
             Previous Projects
         </p>
+        
+        
+        <!-- DEBUG PROJECT LIST -->
+        {% set debug_section = get_section(path="projects/_index.md") %}
+        <ul>
+        {% for p in debug_section.pages %}
+            <li>{{ p.title }} ({{ p.path }})</li>
+        {% endfor %}
+        </ul>
 
         {# Explicitly get the projects section #}
         {% set projects_section = get_section(path="projects/_index.md") %}
+        {% set pages = projects_section.pages %}
 
         {% if section.pages | length > 0 %}
         <div class="projects-grid">

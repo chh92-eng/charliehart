@@ -3,7 +3,6 @@ base_url = "https://paberr.github.io/vonge-zola-theme/"
 
 title = "Charlie Hart"
 author = "Charlie Hart"
-bio = "Mechanical engineering student at Cornell interested in transportation, design, and sustainability."
 
 
 # Whether to automatically compile all Sass files in the sass directory

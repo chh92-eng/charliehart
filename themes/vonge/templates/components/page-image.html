@@ -1,16 +1,9 @@
 {% macro page_image(image, image_alt) %}
-{% set c = 'c-page-image' %}
-<div class="container">
-  <div class="row">
-    <div class="col col-12">
-      <div class="{{ c }} animate">
-        {% set image_url = config.base_url ~ '/' ~ image %}
-        <img loading="lazy" src="{{ image_url | safe }}" alt="{{ image_alt }}">
-      </div>
-    </div>
+  <div class="page-image" style="max-width: 900px; margin: 2rem auto;">
+    <img 
+      src="{{ get_url(path=image) }}" 
+      alt="{{ image_alt }}" 
+      style="width: 100%; height: auto; border-radius: 8px; object-fit: cover;"
+    />
   </div>
-</div>
-{% endmacro page_image %}
-
-
-
+{% endmacro %}

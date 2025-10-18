@@ -1,0 +1,9 @@
+{% macro page_image(image, image_alt) %}
+  <div class="page-image">
+    <img src="/{{ image | safe }}" alt="{{ image_alt | escape }}" />
+  </div>
+{% endmacro %}
+
+
+
+

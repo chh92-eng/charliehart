@@ -1,0 +1,16 @@
+{% macro project_card(data) %}
+<article class="project-card">
+  <a href="{{ data.permalink }}" class="project-card__link">
+    {% if data.extra.image %}
+      <img
+        src="{{ get_url(path=data.extra.image) }}"
+        alt="{{ data.title }}"
+        class="project-card__image"
+      >
+    {% endif %}
+    <div class="project-card__info">
+      <h3 class="project-card__title">{{ data.title }}</h3>
+    </div>
+  </a>
+</article>
+{% endmacro project_card %}
