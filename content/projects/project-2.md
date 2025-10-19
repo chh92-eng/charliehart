@@ -7,6 +7,8 @@ template = "project.html"
 image = "images/project-2.jpg"
 +++
 
+As a member of the Cornell Mars Rover project team, I worked closely with a partner to develop a tire and hub system for the rover. The goal of the project team is to design a Mars Rover each year for the University Rover Competition held in Utah in late May and early June.
+
 <div style="display:flex; align-items:center; justify-content:flex-start; gap:2rem; flex-wrap:wrap; margin-bottom:2.5rem;">
 
   <!-- Image on the right -->
@@ -24,10 +26,6 @@ image = "images/project-2.jpg"
     </p>
 
 </div>
-
-
-
-As a member of the Cornell Mars Rover project team, I worked closely with a partner to develop a tire and hub system for the rover. The goal of the project team is to design a Mars Rover each year for the University Rover Competition held in Utah in late May and early June.
 
 Within this team, I was a part of the Drives Subteam, which focus on design the frame, legs, and wheels of the rover. My task was to work with my partner to develop a new wheel and hub system that reduced the total weight of the wheel systems on the rover. The competition rules set the maximum weight for the rover at 50 kilograms, so weight optimization is a large part of the responsibility for Drives Subteam engineers.
 
