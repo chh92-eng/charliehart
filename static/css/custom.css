@@ -165,10 +165,21 @@
 }
 
 /* ===============================
-   PROJECT 2 CARD IMAGE POSITION
+   HARD HIDE AUTO HEADER IMAGE FOR PROJECT 2
    =============================== */
 
-/* Adjust how Project 2’s card image is cropped within its frame */
-.project-card__image[src*="project-2.jpg"] {
-  object-position: 50% 10%;   /* 50% left-right, 60% top-bottom — move focus upward/downward */
+/* Hide any page-image <img> whose source includes project-2 (covers all path variants) */
+.page-image img[src*="project-2"] {
+  display: none !important;
+  visibility: hidden !important;
+  width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  content: none !important;
+}
+
+/* Optional: remove its container entirely if empty */
+.page-image:has(img[src*="project-2"]) {
+  display: none !important;
 }
