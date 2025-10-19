@@ -54,11 +54,11 @@ social_icons = [
 [[extra.content_blocks]]
 block = "hero"
 title = "Hi there, I’m Charlie Hart"
-description_html = "<strong>Mechanical engineering student</strong> passionate about transportation, planning, and sustainability."
+description_html = "<strong>Mechanical engineering student</strong> at Cornell University passionate about transportation, planning, and sustainability."
 image = "/images/charlie1.jpg"
 image_alt = "Charlie Hart headshot"
 cta_button_link = "/projects"
-cta_button = "See my work"
+cta_button = "Portfolio"
 works_button_link = "/about"
 works_button = "Learn more about me"
 
