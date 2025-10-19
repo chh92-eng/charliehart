@@ -21,4 +21,11 @@
   </div>
 
 </div>
+
+{% if page.higher or page.lower %}
+<div class="container">
+  {% include "partials/project-navigation.html" %}
+</div>
+{% endif %}
+
 {% endblock %}
