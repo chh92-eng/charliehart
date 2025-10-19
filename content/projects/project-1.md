@@ -11,5 +11,5 @@ As part of my undergraduate degree, I completed an introductory course in Intern
 With a team of three other classmates, I created a device capable of mapping the range of a LoRaWAN gateway for municipal IoT use cases.  
 We collaborated with representatives from the cities of Syracuse and Geneva in Upstate New York to support municipal projects such as flood-level monitoring during rainstorms.  
 
-My main contribution was the physical design for the device. Using AutoCAD Inventor, I designed the protective casing to be compact and handheld while ensuring the circuitry inside remained secure.
+My main contribution was the physical design for the device. Using Autodesk Inventor, I designed the protective casing to be compact and handheld while ensuring the circuitry inside remained secure.
 
