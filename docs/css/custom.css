@@ -155,3 +155,20 @@
      pointer-events: auto !important;
    }
    
+/* ===============================
+   HIDE AUTO HEADER IMAGE FOR project-2.jpg
+   =============================== */
+
+/* Hide the specific page-image whose img src matches project-2.jpg */
+.page-image img[src*="project-2.jpg"] {
+  display: none !important;
+}
+
+/* ===============================
+   PROJECT 2 CARD IMAGE POSITION
+   =============================== */
+
+/* Adjust how Project 2’s card image is cropped within its frame */
+.project-card__image[src*="project-2.jpg"] {
+  object-position: 50% 10%;   /* 50% left-right, 60% top-bottom — move focus upward/downward */
+}

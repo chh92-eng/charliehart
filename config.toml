@@ -67,7 +67,7 @@ works_button = "Learn more about me"
 block = "projects-section"
 title = "Projects"
 description_html = """
-    <p>Some of my most recent work in design, sustainability, and engineering.</p>"""
+    <p>Some of my most recent work.</p>"""
 link_url = "projects"
 show_projects = true
 
@@ -76,7 +76,7 @@ show_projects = true
 block = "blog-section"
 title = "Posts"
 description_html = """
-    <p>Reflections on design, systems, and transportation planning.</p>"""
+    <p>Personal Updates</p>"""
 link_url = "posts"
 show_posts = true
 

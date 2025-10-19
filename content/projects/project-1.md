@@ -1,5 +1,5 @@
 +++
-date = "2025-01-01"
+date = "2025-10-16"
 draft = false
 title = "LoRaWAN Connection Mapping Device"
 description = "Mapping the range of a LoRaWAN gateway for municipal IoT use cases"
