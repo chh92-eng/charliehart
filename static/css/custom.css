@@ -184,3 +184,10 @@
   display: none !important;
 }
 
+/* ===============================
+   PROJECT 2 CARD IMAGE CUSTOM POSITION
+   =============================== */
+   .project-card__link[href*="project-2"] .project-card__image {
+    object-position: 50% 10%;  /* adjust this to show more top or bottom */
+  }
+  
