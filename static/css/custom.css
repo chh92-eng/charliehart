@@ -183,3 +183,4 @@
 .page-image:has(img[src*="project-2"]) {
   display: none !important;
 }
+

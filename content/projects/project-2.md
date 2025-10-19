@@ -1,28 +1,13 @@
 +++
 title = "Airless Tire and Hub System"
-description = "Tire and Hub System for Cornell Mars Rover project team 2025 rover for URC Competition"
+description = "Cornell Mars Rover Project Team"
 date = 2025-10-18
 template = "project.html"
-extra.image = "images/project-2.jpg"
+[extra]
+image = "images/project-2.jpg"
 +++
 
 <div style="display:flex; align-items:center; justify-content:flex-start; gap:2rem; flex-wrap:wrap; margin-bottom:2.5rem;">
-
-  <!-- Text content on the left -->
-  <div style="flex:1; min-width:260px;">
-    <h1 style="margin:0; font-size:2.8rem; font-weight:800;">Airless Tire and Hub System</h1>
-    <p style="margin:0.5rem 0 1rem; font-size:1.1rem; color:#111;">
-      Tire and Hub System for Cornell Mars Rover project team 2025 rover for URC Competition
-    </p>
-
-<!-- Avatar and date -->
-<div style="display:flex; align-items:center; gap:0.5rem; margin-top:0.5rem;">
-      <img src="../../images/charlie1.jpg"
-           alt="Charlie Hart"
-           style="width:36px; height:36px; border-radius:50%; object-fit:cover; aspect-ratio:1/1;">
-      <span style="font-size:0.95rem; color:#111;">16 Oct 2025</span>
-    </div>
-  </div>
 
   <!-- Image on the right -->
   <div style="width:350px; height:350px; overflow:hidden; border-radius:1rem; flex-shrink:0;">
@@ -30,6 +15,13 @@ extra.image = "images/project-2.jpg"
          alt="Wheel assembly"
          style="width:100%; height:100%; object-fit:cover; object-position:center 40%; display:block;">
   </div>
+
+  <!-- Text content on the left -->
+  <div style="flex:1; min-width:260px;">
+    <h1 style="margin:0; font-size:1.5rem; font-weight:700;">Tire and Hub System on 2025 Rover</h1>
+    <p style="margin:0.5rem 0 1rem; font-size:1.1rem; color:#111;">
+      Wheel mounted on rover used in competition
+    </p>
 
 </div>
 
