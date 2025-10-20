@@ -7,7 +7,16 @@ template = "project.html"
 image = "images/project-2.jpg"
 +++
 
-As a member of the **Cornell Mars Rover** project team, I worked closely with a partner to develop a tire and hub system for the rover. The goal of the project team is to design a Mars Rover each year for the University Rover Competition held in Utah in late May and early June.
+## Team Objective
+
+The **Cornell Mars Rover** project team is an extracurricular, for-credit program that focuses on designing an autonomous rover. This rover is redesigned each year and is submitted for the **University Rover Challenge (URC)** in Utah, hosted by *The Mars Society* in late May.
+
+The **University Rover Competition** releases updated guidelines and challenges that the rover must adhere to and complete. These challenges include equipment servicing on a mock Mars lander, autonomous navigation, payload delivery, and testing for microbial life.
+
+## Project Overview
+
+As a member of **Cornell Mars Rover**, I worked closely with a partner to develop a tire and hub system for the rover to be used in competition. 
+
 
 <div style="display:flex; align-items:center; justify-content:flex-start; gap:2rem; flex-wrap:wrap; margin-bottom:2.5rem;">
 
@@ -26,6 +35,8 @@ As a member of the **Cornell Mars Rover** project team, I worked closely with a 
     </p>
 
 </div>
+
+## My Role
 
 Within this team, I was a part of the Drives Subteam, which focus on design the frame, legs, and wheels of the rover. My task was to work with my partner to develop a new wheel and hub system that reduced the total weight of the wheel systems on the rover. The competition rules set the maximum weight for the rover at 50 kilograms, so weight optimization is a large part of the responsibility for Drives Subteam engineers.
 
