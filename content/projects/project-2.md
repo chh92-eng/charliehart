@@ -33,10 +33,12 @@ As a member of **Cornell Mars Rover**, I worked closely with a partner to develo
     <p style="margin:0.5rem 0 1rem; font-size:1.1rem; color:#111;">
       Wheel mounted on rover used in competition
     </p>
+  </div> <!-- ✅ this closing tag was missing -->
 
-</div>
+</div> <!-- ✅ closes the outer flex container -->
 
 ## My Role
+
 
 Within this team, I was a part of the Drives Subteam, which focus on design the frame, legs, and wheels of the rover. My task was to work with my partner to develop a new wheel and hub system that reduced the total weight of the wheel systems on the rover. The competition rules set the maximum weight for the rover at 50 kilograms, so weight optimization is a large part of the responsibility for Drives Subteam engineers.
 
