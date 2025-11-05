@@ -35,13 +35,28 @@ As part of my undergraduate degree in Mechanical Engineering at Cornell Universi
   <p style="font-size:0.95rem; color:#111; margin-top:0.5rem;">Field Testing Area – Ithaca Region</p>
 </div>
 
+## My Role
+
+<p style="text-align:justify;">
+  <figure style="float:right; width:300px; margin:1.5rem 0 0 1.5rem; text-align:center; vertical-align:bottom;">
+    <div style="width:100%; height:200px; overflow:hidden; border-radius:1rem;">
+      <img src="../../images/project1-inside.jpg"
+           alt="Inside View of Physical Prototype"
+           style="width:100%; height:100%; object-fit:cover; object-position:70% 65%; display:block;">
+    </div>
+    <figcaption style="font-size:0.9rem; color:#111;">Inside View of Physical Prototype</figcaption>
+  </figure>
+  I led the mechanical design for the device, creating the protective enclosure in Autodesk Inventor. 
+  The casing was optimized for compactness and handheld use, with internal mounting features that secured 
+  the circuitry and allowed for quick access to ports and interfaces during testing. I also refined the 
+  enclosure geometry through several design iterations to improve assembly efficiency, weather resistance, 
+  and overall durability in field conditions. Each prototype was evaluated for ergonomics and ease of use 
+  to ensure the final device could be comfortably handled by volunteers during data collection.
+</p>
 
 
 
 
-
-
-My main contribution was the physical design for the device. Using Autodesk Inventor, I designed the protective casing to be compact and handheld while ensuring the circuitry inside remained secure.
 
 
 ## CAD Visual
@@ -68,5 +83,3 @@ My main contribution was the physical design for the device. Using Autodesk Inve
   </div>
 
 </div>
-
-![Screenshot](../../images/project1_inside.jpg)
