@@ -73,20 +73,20 @@ link_url = "projects"
 show_projects = true
 
 # BLOG (optional)
-[[extra.content_blocks]]
-block = "blog-section"
-title = "Posts"
-description_html = """
-    <p>Personal Updates</p>"""
-link_url = "posts"
-show_posts = true
+# [[extra.content_blocks]]
+# block = "blog-section"
+# title = "Posts"
+# description_html = """
+#     <p>Personal Updates</p>"""
+# link_url = "posts"
+# show_posts = true
 
 # CONTACT (optional)
-[[extra.content_blocks]]
-block = "contact-form"
-form_title = "Get in touch"
-form_description = "Reach out — I’d love to hear from you."
-form_success_page = ''
-form_submission_email = "chh92@cornell.edu"
-form_button_text = "Send"
+# [[extra.content_blocks]]
+# block = "contact-form"
+# form_title = "Get in touch"
+# form_description = "Reach out — I’d love to hear from you."
+# form_success_page = ''
+# form_submission_email = "chh92@cornell.edu"
+# form_button_text = "Send"
 
