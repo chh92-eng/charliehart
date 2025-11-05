@@ -1,0 +1,193 @@
+/* ===============================
+   PAGE TITLES ("My Works" / "Previous Projects")
+   =============================== */
+   .section .title,
+   .section .subtitle {
+     text-align: center !important;
+     display: block;
+     width: 100%;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 0.5rem;
+   }
+   
+   /* Optional: subtle spacing between heading and grid */
+   .section .subtitle {
+     margin-bottom: 2rem;
+   }
+   
+   /* ===============================
+      PROJECT GRID LAYOUT
+      =============================== */
+   .project-grid {
+     display: grid;
+     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+     gap: 2rem;
+     justify-content: center;
+     justify-items: center;
+     width: 100%;
+     max-width: 1200px;
+     margin: 0 auto;
+     margin-top: 2rem;
+   }
+   
+   /* ===============================
+      PROJECT CARD
+      =============================== */
+   .project-card {
+     position: relative;
+     border-radius: 1rem;
+     overflow: hidden;
+     background: #fff;
+     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+     transition: transform 0.3s ease, box-shadow 0.3s ease;
+     max-width: 400px;
+   }
+   
+   .project-card:hover {
+     transform: translateY(-6px);
+     box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
+   }
+   
+   /* Whole card clickable */
+   .project-card__link {
+     display: block;
+     position: relative;
+     text-decoration: none;
+     color: inherit;
+   }
+   
+   /* ===============================
+      CARD IMAGE
+      =============================== */
+   .project-card__image {
+     width: 100%;
+     aspect-ratio: 4 / 4;          /* Taller image ratio */
+     object-fit: cover;
+     object-position: 50% 80%;     /* Shows more of the bottom */
+     display: block;
+     border-radius: 1rem;
+     z-index: 0;
+     position: relative;
+   }
+   
+   /* ===============================
+      HOVER OVERLAY (FADE-IN)
+      =============================== */
+   .project-card__info {
+     position: absolute;
+     inset: 0;
+     z-index: 1;
+     display: flex;
+     align-items: flex-end;        /* Title near bottom */
+     justify-content: center;
+     text-align: center;
+     background: linear-gradient(
+       to top,
+       rgba(0, 150, 136, 0.75),
+       rgba(0, 150, 136, 0.25)
+     );
+     opacity: 0;
+     transition: opacity 0.4s ease;
+     border-radius: 1rem;
+     pointer-events: none;
+     padding-bottom: 2.5rem;       /* Distance from bottom */
+   }
+   
+   .project-card:hover .project-card__info {
+     opacity: 1;
+     pointer-events: all;
+   }
+   
+   /* ===============================
+      TITLE ON HOVER
+      =============================== */
+   .project-card__title {
+     color: #fff;
+     font-weight: 700;
+     font-size: 1.3rem;
+     margin: 0;
+     text-align: center;
+     opacity: 0;
+     transform: translateY(10px);
+     transition: transform 0.4s ease, opacity 0.4s ease;
+   }
+   
+   .project-card:hover .project-card__title {
+     opacity: 1;
+     transform: translateY(0);
+   }
+   
+   /* Hide description entirely */
+   .project-card__description {
+     display: none;
+   }
+   
+   /* ===============================
+      PROJECT DETAIL PAGE IMAGE
+      =============================== */
+   .page-image img,
+   .project-detail-image {
+     max-width: 700px;
+     width: 90%;
+     border-radius: 1rem;
+     margin: 2rem auto;
+     display: block;
+     object-fit: cover;
+     object-position: 50% 80%; /* Show more of the bottom of the image */
+   }
+   
+   /* ===============================
+      HERO / BUTTON FIXES
+      =============================== */
+   .c-hero__image {
+     pointer-events: none !important;
+   }
+   
+   .c-hero__btn,
+   .works-button,
+   .cta-button {
+     position: relative !important;
+     z-index: 100 !important;
+   }
+   
+   .works-button {
+     pointer-events: auto !important;
+   }
+   
+/* ===============================
+   HIDE AUTO HEADER IMAGE FOR project-2.jpg
+   =============================== */
+
+/* Hide the specific page-image whose img src matches project-2.jpg */
+.page-image img[src*="project-2.jpg"] {
+  display: none !important;
+}
+
+/* ===============================
+   HARD HIDE AUTO HEADER IMAGE FOR PROJECT 2
+   =============================== */
+
+/* Hide any page-image <img> whose source includes project-2 (covers all path variants) */
+.page-image img[src*="project-2"] {
+  display: none !important;
+  visibility: hidden !important;
+  width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  content: none !important;
+}
+
+/* Optional: remove its container entirely if empty */
+.page-image:has(img[src*="project-2"]) {
+  display: none !important;
+}
+
+/* ===============================
+   PROJECT 2 CARD IMAGE CUSTOM POSITION
+   =============================== */
+   .project-card__link[href*="project-2"] .project-card__image {
+    object-position: 50% 10%;  /* adjust this to show more top or bottom */
+  }
+  

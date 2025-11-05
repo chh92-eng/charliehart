@@ -46,5 +46,5 @@ We decided to design a tire and hub system that would utilize airless tires, pro
 
 When designing the tires themselves, my partner and I studied different designs for airless tires, such as previous rover designs or tires from Michelin. In previous iterations of the rover that utilized airless tires, the main shortfall was the unpredictability of the direction of bending experienced by the support trusses within the two rims of the tires. To remedy this, my partner and I designed the wheel to have arched supports between the two rims that would reliably bend inwards upon one another when they experienced high loads. This would ensure smooth geometry of the outer rim as it compressed against the ground. If the supports were to bend in opposing directions, it would lead to uneven distributions of strength, inducing higher loads upon certain sections of the wheel and lower loads along other portions. Our design ensured loading was even across the entirety of the wheel experiencing the load at one time.
 
-# ![Screenshot](../../images/project-2.jpg)
+![Screenshot](../../images/project-2-fullCAD.png)
 
