@@ -13,6 +13,21 @@ The **Cornell Mars Rover** project team is an extracurricular, for-credit progra
 
 The **University Rover Competition** releases updated guidelines and challenges that the rover must adhere to and complete. These challenges include equipment servicing on a mock Mars lander, autonomous navigation, payload delivery, and testing for microbial life.
 
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:1rem; margin:2rem 0;">
+  <iframe src="https://www.youtube.com/embed/HoFIuPtQGmM"
+          title="Cornell Mars Rover – URC SAR 2025"
+          style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; border-radius:1rem;"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+</div>
+
+<div style="text-align:center; font-size:1rem; color:#555; margin-top:0rem;">
+  Cornell Mars Rover – URC SAR 2025
+</div>
+
+<br>
+
 ## Project Overview
 
 As a member of **Cornell Mars Rover**, I worked closely with a partner to develop a tire and hub system for the rover to be used in competition. 
@@ -39,12 +54,68 @@ As a member of **Cornell Mars Rover**, I worked closely with a partner to develo
 
 ## My Role
 
-
-Within this team, I was a part of the Drives Subteam, which focus on design the frame, legs, and wheels of the rover. My task was to work with my partner to develop a new wheel and hub system that reduced the total weight of the wheel systems on the rover. The competition rules set the maximum weight for the rover at 50 kilograms, so weight optimization is a large part of the responsibility for Drives Subteam engineers.
+<p style="text-align:justify;">
+  <figure style="float:right; width:380px; margin:0 0 1rem 1.5rem; text-align:center;">
+    <img src="../../images/project2-cdrCAD.png"
+         alt="Iteration of Full Rover Leg Assembly"
+         style="width:100%; height:auto; border-radius:1rem; display:block; margin-bottom:0.4rem;">
+    <figcaption style="font-size:0.9rem; color:#111;">Iteration of Full Rover Leg Assembly</figcaption>
+  </figure>
+  Within this team, I was a part of the Drives Subteam, which focus on design the frame, legs, and wheels of the rover. My task was to work with my partner to develop a new wheel and hub system that reduced the total weight of the wheel systems on the rover. The competition rules set the maximum weight for the rover at 50 kilograms, so weight optimization is a large part of the responsibility for Drives Subteam engineers.
+</p>
 
 We decided to design a tire and hub system that would utilize airless tires, produced using TPU filament on a 3D printer. The system was designed with the intent that if the airless tires were to catastrophically fail, they could be easily replaced with pneumatic tires. This meant we had to create a hub that could be interoperable with different types of tires.
 
-When designing the tires themselves, my partner and I studied different designs for airless tires, such as previous rover designs or tires from Michelin. In previous iterations of the rover that utilized airless tires, the main shortfall was the unpredictability of the direction of bending experienced by the support trusses within the two rims of the tires. To remedy this, my partner and I designed the wheel to have arched supports between the two rims that would reliably bend inwards upon one another when they experienced high loads. This would ensure smooth geometry of the outer rim as it compressed against the ground. If the supports were to bend in opposing directions, it would lead to uneven distributions of strength, inducing higher loads upon certain sections of the wheel and lower loads along other portions. Our design ensured loading was even across the entirety of the wheel experiencing the load at one time.
+<p style="text-align:justify;">
+  <figure style="float:left; width:380px; margin:1rem 1.5rem 1rem 0; text-align:center;">
+    <img src="../../images/project2-cad2.png"
+         alt="Tire CAD Model"
+         style="width:100%; height:auto; border-radius:1rem; display:block; margin-bottom:0.4rem;">
+    <figcaption style="font-size:0.9rem; color:#111;">Tire CAD Model</figcaption>
+  </figure>
+  When designing the tires themselves, my partner and I studied different designs for airless tires, such as previous rover designs or tires from Michelin. In previous iterations of the rover that utilized airless tires, the main shortfall was the unpredictability of the direction of bending experienced by the support trusses within the two rims of the tires. To remedy this, my partner and I designed the wheel to have arched supports between the two rims that would reliably bend inwards upon one another when they experienced high loads. This would ensure smooth geometry of the outer rim as it compressed against the ground. If the supports were to bend in opposing directions, it would lead to uneven distributions of strength, inducing higher loads upon certain sections of the wheel and lower loads along other portions. Our design ensured loading was even across the entirety of the wheel experiencing the load at one time.
+</p>
 
-![Screenshot](../../images/project-2-fullCAD.png)
+### CAD
+
+<p style="text-align:justify;">
+  <figure style="float:right; width:300px; margin:0rem 1.5rem 0 0; text-align:center;">
+    <div style="width:100%; height:200px; overflow:hidden; border-radius:1rem;">
+      <img src="../../images/project-2-fullCAD.png"
+           alt="Full System Assembly CAD Model"
+           style="width:100%; height:100%; object-fit:cover; object-position:70% 65%; display:block;">
+    </div>
+    <figcaption style="font-size:0.9rem; color:#111;">Full System Assembly CAD Model</figcaption>
+  </figure>
+  My work on this project allowed me to build strong skills in using CAD software, specifically Autodesk Inventor, for modeling complex prototypes and creating detailed assemblies. I designed both the tire and hub geometry, ensuring proper fit between the TPU-printed tire, aluminum hubs, and torque-transmitting spacers. I also learned how to apply geometric constraints and tolerances that ensured consistent alignment between parts during assembly and testing. Beyond function, I incorporated visual and practical design details—such as curved spoke patterns for controlled deformation and powder-coated matte black hubs—to produce a robust and professional-looking final product.
+</p>
+
+
+### Physical Testing
+
+Once the prototype wheel assembly was completed, I conducted a series of physical tests to evaluate its performance under realistic loading conditions. Using a custom-built test rig consisting of parts I manufactured, I applied more than 25 kilograms of compressive force to the wheel to measure deflection and observe material behavior. These tests revealed how the TPU tire deformed between spacers and confirmed that the hub system withstood expected loads without failure. I analyzed deformation patterns to ensure the spokes bent predictably inward, validating the design’s intended behavior under stress. The results informed minor geometric refinements and guided future improvements, including additional torque and roll testing planned with the suspension team.
+
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:2rem; flex-wrap:wrap; margin:2rem 0;">
+
+  <!-- Front view -->
+  <div style="text-align:center;">
+    <div style="width:300px; height:300px; overflow:hidden; border-radius:1rem; margin-bottom:0.5rem;">
+      <img src="../../images/project2-test2.jpeg"
+           alt="Test Rig Manufactured Part Installed"
+           style="width:100%; height:100%; object-fit:cover; display:block;">
+    </div>
+    <p style="font-size:0.95rem; color:#111; margin:0;">Test Rig Manufactured Part Installed</p>
+  </div>
+
+  <!-- Back view -->
+  <div style="text-align:center;">
+    <div style="width:300px; height:300px; overflow:hidden; border-radius:1rem; margin-bottom:0.5rem;">
+      <img src="../../images/project2-test1.png"
+           alt="Wheel Deformation During Testing"
+           style="width:100%; height:100%; object-fit:cover; display:block;">
+    </div>
+    <p style="font-size:0.95rem; color:#111; margin:0;">Wheel Deformation During Testing</p>
+  </div>
+
+</div>
 
