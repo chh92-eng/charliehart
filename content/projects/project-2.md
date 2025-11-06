@@ -9,9 +9,7 @@ image = "images/project-2.jpg"
 
 ## Team Objective
 
-The **Cornell Mars Rover** project team is an extracurricular, for-credit program that focuses on designing an autonomous rover. This rover is redesigned each year and is submitted for the **University Rover Challenge (URC)** in Utah, hosted by *The Mars Society* in late May.
-
-The **University Rover Competition** releases updated guidelines and challenges that the rover must adhere to and complete. These challenges include equipment servicing on a mock Mars lander, autonomous navigation, payload delivery, and testing for microbial life.
+**Cornell Mars Rover** is an extracurricular, for-credit engineering project team that designs and builds a fully autonomous Mars rover each year. The rover is developed for the **University Rover Challenge (URC)** in Utah, hosted by *The Mars Society* each May, where teams are judged on design innovation, system performance, and mission execution in Mars-like terrain.
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:1rem; margin:2rem 0;">
   <iframe src="https://www.youtube.com/embed/HoFIuPtQGmM"
@@ -30,8 +28,9 @@ The **University Rover Competition** releases updated guidelines and challenges 
 
 ## Project Overview
 
-As a member of **Cornell Mars Rover**, I worked closely with a partner to develop a tire and hub system for the rover to be used in competition. 
+As a member of the *Drives Subteam*, I contributed to the design and prototyping of the rover’s wheel and hub system—components that had to be lightweight, manufacturable, and capable of withstanding harsh desert conditions. I worked on modeling and refining the wheel geometry in Autodesk Inventor, creating shop drawings, and preparing the parts for fabrication. During this process, I earned certification to operate equipment such as mills and lathes, which gave me first-hand experience translating CAD models into precise physical components.
 
+My role also involved analyzing material performance and load behavior using ANSYS, collaborating closely with other subteams to ensure mechanical designs integrated smoothly with electrical and software systems. Working in this multidisciplinary environment taught me how iterative design, communication, and testing all come together to make a complex system reliable. My time on the team strengthened my technical foundation while giving me a practical understanding of how large engineering projects move from concept to competition.
 
 <div style="display:flex; align-items:center; justify-content:flex-start; gap:2rem; flex-wrap:wrap; margin-bottom:2.5rem;">
 
