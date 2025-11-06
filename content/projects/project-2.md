@@ -9,7 +9,7 @@ image = "images/project-2.jpg"
 
 ## Team Objective
 
-**Cornell Mars Rover** is an extracurricular, for-credit engineering project team that designs and builds a fully autonomous Mars rover each year. The rover is developed for the **University Rover Challenge (URC)** in Utah, hosted by *The Mars Society* each May, where teams are judged on design innovation, system performance, and mission execution in Mars-like terrain.
+**Cornell Mars Rover** is an extracurricular, for-credit engineering project team that designs and builds a fully autonomous Mars rover each year. The rover is developed for the **University Rover Challenge (URC)** in Utah, hosted by *The Mars Society* each May, where teams are judged on system performance and mission execution in Mars-like terrain.
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:1rem; margin:2rem 0;">
   <iframe src="https://www.youtube.com/embed/HoFIuPtQGmM"
