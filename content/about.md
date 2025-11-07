@@ -10,14 +10,13 @@ image = "images/charlie_mog.jpg"
 
 ## Who I Am
 
-I grew up in the north of the San Francisco Bay Area, just south of Sonoma and Napa. Environmentalism runs deep in the North Bay, and I learned from a very young age that caring for the natural world around me is of the utmost importance. In 2017, the SMART train came to the region, introducing me to the world of comfortable, accessible, and impactful public transportation. This train allowed me to attend school 30 miles from home in Santa Rosa, CA. Since then, my passions for sustainability and transportation have been driving forces in my academic journey and my career aspirations.
+I grew up in the northern San Francisco Bay Area, just south of Sonoma and Napa. The North Bay has a strong sense of environmental awareness, and that mindset shaped how I see the world. When the SMART train started running in 2017, it opened my eyes to how good public transportation can connect communities. That train made it possible for me to attend school 30 miles away in Santa Rosa, and it sparked my interest in sustainable transportation and urban systems.
 
-I aim to utilize my education in engineering to build a career that allows me to bring reliable and sustainble transportation options to not only the North Bay, but the entire Bay Area. I spent much of my childhood exploring San Francisco, Oakland, and Berkeley, so I hold a great deal of love for those cities as well.
+I want to use my engineering background to help improve transportation across the Bay Area, especially in the North Bay, where access is limited. I’ve spent a lot of time exploring San Francisco, Oakland, and Berkeley, and I care deeply about making those cities more connected and livable for the people who call them home.
 
 ## Where I'm At
 
-I'm a fourth-year mechanical engineering student at Cornell University pursuing a Master's Degree in systems engineering, which I intend to begin this January at Cornell alongside my undergraduate degree.
-This site is my personal space to share projects, writing, and ideas.
+I’m a fourth-year Mechanical Engineering student at Cornell University and will begin my Master of Engineering in Systems Engineering this January, continuing here at Cornell alongside my undergraduate studies.
 
 ## Interests in Transportation
 
@@ -33,8 +32,8 @@ This site is my personal space to share projects, writing, and ideas.
 
 ## Outside of Work
 
-During my time in college, I was a member of the Cornell Men's Alpine Ski Team. Skiing was a big passion for my dad, so I enjoyed getting to spend the time improving my abilities. I've spent my life visiting Tahoe, and my dad has lived in both Sun Valley, ID and Portland, OR for a little while, so I got to grow up playing after hours on the bunny slopes of some of the most revered resorts in the nation.
+During college, I was part of the Cornell Men’s Alpine Ski Team. Skiing has always been something I’ve shared with my dad, and it’s a big part of our family life. I grew up spending time in Tahoe, and my dad has lived in places like Sun Valley and Portland, Oregon, so skiing has been around me for as long as I can remember.
 
-Similarly, I spent some time with the Cornell Gymnastics Club. Whereas skiing is something I share with my dad, gymnastics is something I share with my mom. My mom and I used to love practicing gymnastics and acrobatics together, so the club was an excuse to keep practicing my handstands and flips.
+I also joined the Cornell Gymnastics Club. Gymnastics is something I’ve always connected with through my mom — we used to practice together when I was younger, and the club gave me a chance to keep it up and stay active.
 
-My favorite thing to do is travel. I have driven from one side of the country to the other multiple times, and every time I've taken a different route, because I love discovering new places and understanding new parts of the world around me. I've been lucky enough to do a few international trips on my own or with some friends.
+I love to travel and see new places. I’ve driven across the U.S. several times, always taking different routes, and I’ve been lucky to visit a few countries abroad. Traveling helps me see how different people live and gives me new perspectives on the world around me.
