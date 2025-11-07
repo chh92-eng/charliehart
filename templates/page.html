@@ -37,16 +37,25 @@
           {% endif %}
 
           <div class="post__meta">
+
+            {# ---- Author image and date removed ---- #}
+            {#
             <div class="post__author-image">
               <img loading="lazy" src="{{ get_url(path=author_image) }}" alt="{{ author_name }}">
             </div>
+            #}
 
             <div class="post__meta-bottom">
               <div class="post__author">{{ author_name }}</div>
+
+              {#
               {% set formatted_date_long = page.date | date(format="%Y-%m-%d %H:%M:%S %z") %}
               {% set formatted_date_short = page.date | date(format=config.extra.date_format) %}
               <time class="post__date" datetime="{{ formatted_date_long }}">{{ formatted_date_short }}</time>
+              #}
             </div>
+            {# ---------------------------------------- #}
+
           </div>
 
         </div>
@@ -86,4 +95,3 @@
 {# {{ newsletter::newsletter(config = config.extra.newsletter) }} #}
 
 {% endblock %}
-
