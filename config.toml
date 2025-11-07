@@ -32,8 +32,8 @@ social_media_description = "Mechanical engineering student at Cornell University
 navigation = [
     { url = "$BASE_URL", title = "Home" },
     { url = "$BASE_URL/projects", title = "Projects" },
-    { url = "$BASE_URL/resume", title = "Resume" },
     { url = "$BASE_URL/about", title = "About" },
+    { url = "$BASE_URL/resume", title = "Resume" },
     { url = "$BASE_URL/posts", title = "Blog" }
 ]
 
