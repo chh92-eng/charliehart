@@ -1,7 +1,7 @@
 +++
 date = "2025-10-16"
 draft = false
-title = "LoRaWAN Connection Mapping Device"
+title = "LoRaWAN Connection Mapping Device - MAE 4220"
 description = "Mapping the range of a LoRaWAN gateway for municipal IoT use cases"
 [extra]
 image = "/images/project-1.jpg"
