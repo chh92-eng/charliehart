@@ -33,7 +33,7 @@ This site is my personal space to share projects, writing, and ideas.
 
 ## Outside of Work
 
-During my time in college, I was a member of the Cornell Men's Alpine Ski Team. Skiing was a big passion for my dad, so I enjoyed getting to spend the time improving my abilities. I've spent my life visiting Tahoe, and my dad has lived in both Sun Valley, ID and Portland, OR for a little while, so I got to grow up playing after hours on the ski slopes of the bunny hills of some of the most revered resorts in the nation.
+During my time in college, I was a member of the Cornell Men's Alpine Ski Team. Skiing was a big passion for my dad, so I enjoyed getting to spend the time improving my abilities. I've spent my life visiting Tahoe, and my dad has lived in both Sun Valley, ID and Portland, OR for a little while, so I got to grow up playing after hours on the bunny slopes of some of the most revered resorts in the nation.
 
 Similarly, I spent some time with the Cornell Gymnastics Club. Whereas skiing is something I share with my dad, gymnastics is something I share with my mom. My mom and I used to love practicing gymnastics and acrobatics together, so the club was an excuse to keep practicing my handstands and flips.
 
