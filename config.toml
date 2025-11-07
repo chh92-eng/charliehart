@@ -34,7 +34,7 @@ navigation = [
     { url = "$BASE_URL/projects", title = "Projects" },
     { url = "$BASE_URL/about", title = "About" },
     { url = "$BASE_URL/resume", title = "Resume" },
-    { url = "$BASE_URL/posts", title = "Blog" }
+    # { url = "$BASE_URL/posts", title = "Blog" }
 ]
 
 
