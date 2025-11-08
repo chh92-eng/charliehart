@@ -28,9 +28,17 @@ image = "images/project-2.jpg"
 
 ## Project Overview
 
-As a member of the *Drives Subteam*, I contributed to the design and prototyping of the rover’s wheel and hub system—components that had to be lightweight, manufacturable, and capable of withstanding harsh desert conditions. I worked on modeling and refining the wheel geometry in Autodesk Inventor, creating shop drawings, and preparing the parts for fabrication. During this process, I earned certification to operate equipment such as mills and lathes, which gave me first-hand experience translating CAD models into precise physical components.
+As a member of the Drives Subteam of the Cornell Mars Rover Project, I worked with a partner to design and fabricate the rover’s wheel and hub assembly — a critical component responsible for traction, weight distribution, and durability under harsh terrain. The Drives Subteam oversees all frame, suspension, and wheel systems, with a major focus on weight optimization due to the competition’s 50-kilogram limit for the full rover.
 
-My role also involved analyzing material performance and load behavior using ANSYS, collaborating closely with other subteams to ensure mechanical designs integrated smoothly with electrical and software systems. Working in this multidisciplinary environment taught me how iterative design, communication, and testing all come together to make a complex system reliable. My time on the team strengthened my technical foundation while giving me a practical understanding of how large engineering projects move from concept to competition.
+<p style="text-align:justify;">
+  <figure style="float:right; width:380px; margin:0 0 1rem 1.5rem; text-align:center;">
+    <img src="../../images/project2-wheelpic.jpg"
+         alt="Iteration of Full Rover Leg Assembly"
+         style="width:100%; height:auto; border-radius:1rem; display:block; margin-bottom:0.4rem;">
+    <figcaption style="font-size:0.9rem; color:#111;">Tire-Hub Assembly Prototype</figcaption>
+  </figure>
+  My project focused on developing a new lightweight wheel and hub system that could withstand rugged desert conditions while remaining manufacturable and easily serviceable. The design used 3D-printed airless tires made from TPU filament, paired with machined aluminum hubs. The assembly was designed to be interoperable with both airless and pneumatic tires, allowing quick replacements in the event of a failure during manufacturing or testing too close to the competition date to remedy. The resulting system balanced flexibility, durability, and weight efficiency — key factors for competition performance. This project strengthened my skills in CAD modeling, manufacturing, and design for assembly, while also teaching me how to collaborate across mechanical, electrical, and software subteams to integrate a reliable system for a real-world competition rover. My time with the team also allowed me to build familiarity with ANSYS softwares for load analysis.
+</p>
 
 <div style="display:flex; align-items:center; justify-content:flex-start; gap:2rem; flex-wrap:wrap; margin-bottom:2.5rem;">
 
@@ -60,10 +68,10 @@ My role also involved analyzing material performance and load behavior using ANS
          style="width:100%; height:auto; border-radius:1rem; display:block; margin-bottom:0.4rem;">
     <figcaption style="font-size:0.9rem; color:#111;">Iteration of Full Rover Leg Assembly</figcaption>
   </figure>
-  Within this team, I was a part of the Drives Subteam, which focus on design the frame, legs, and wheels of the rover. My task was to work with my partner to develop a new wheel and hub system that reduced the total weight of the wheel systems on the rover. The competition rules set the maximum weight for the rover at 50 kilograms, so weight optimization is a large part of the responsibility for Drives Subteam engineers.
+  I was responsible for the mechanical design and prototyping of the new wheel and hub system. Working in Autodesk Inventor, I modeled and refined the tire and hub geometry, ensuring precise fit between the TPU tire, aluminum hubs, and torque-transmitting spacers. I produced detailed shop drawings for manufacturing and earned certification to operate mills and lathes, allowing me to directly translate my CAD models into physical components.
 </p>
 
-We decided to design a tire and hub system that would utilize airless tires, produced using TPU filament on a 3D printer. The system was designed with the intent that if the airless tires were to catastrophically fail, they could be easily replaced with pneumatic tires. This meant we had to create a hub that could be interoperable with different types of tires.
+A major design challenge was ensuring that the airless tire’s internal supports deformed predictably under load. In previous rover designs, the trusses connecting the inner and outer rims bent in inconsistent directions, creating uneven stresses and premature failure. To solve this, my partner and I designed arched support structures that reliably flexed inward under compression, maintaining a smooth outer rim profile and distributing loads evenly across the wheel.
 
 <p style="text-align:justify;">
   <figure style="float:left; width:380px; margin:1rem 1.5rem 1rem 0; text-align:center;">
@@ -72,8 +80,10 @@ We decided to design a tire and hub system that would utilize airless tires, pro
          style="width:100%; height:auto; border-radius:1rem; display:block; margin-bottom:0.4rem;">
     <figcaption style="font-size:0.9rem; color:#111;">Tire CAD Model</figcaption>
   </figure>
-  When designing the tires themselves, my partner and I studied different designs for airless tires, such as previous rover designs or tires from Michelin. In previous iterations of the rover that utilized airless tires, the main shortfall was the unpredictability of the direction of bending experienced by the support trusses within the two rims of the tires. To remedy this, my partner and I designed the wheel to have arched supports between the two rims that would reliably bend inwards upon one another when they experienced high loads. This would ensure smooth geometry of the outer rim as it compressed against the ground. If the supports were to bend in opposing directions, it would lead to uneven distributions of strength, inducing higher loads upon certain sections of the wheel and lower loads along other portions. Our design ensured loading was even across the entirety of the wheel experiencing the load at one time.
+  Throughout the project, I applied geometric constraints, tolerance analysis, and assembly modeling to ensure consistent part alignment during both fabrication and testing. Beyond the functional design, I focused on practical and aesthetic refinements—such as curved spoke patterns for controlled deformation and powder-coated matte-black hubs for a durable, professional finish.
 </p>
+
+<br>
 
 ### CAD
 
