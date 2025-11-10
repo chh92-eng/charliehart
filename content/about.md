@@ -5,7 +5,7 @@ date = 2025-10-12
 show_date = false
 template = "page.html"
 [extra]
-image = "images/charlie_mog.jpg"
+image = "images/servingzola.jpg"
 +++
 
 ## Who I Am
