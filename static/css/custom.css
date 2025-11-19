@@ -158,7 +158,8 @@
       FORCE-HIDE AUTO HEADER IMAGE FOR PROJECT 2
       (clean, non-redundant version)
       =========================================== */
-   .page-image img[src*="project-2"] {
+   .page-image img[src*="project-2"],
+   .page-image img[src*="charlie_mog"] {
      display: none !important;
      visibility: hidden !important;
      width: 0 !important;
