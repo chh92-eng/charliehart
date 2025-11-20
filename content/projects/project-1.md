@@ -4,7 +4,7 @@ draft = false
 title = "LoRaWAN Connection Mapping Device"
 description = "Mapping the range of a LoRaWAN gateway for municipal IoT use cases"
 [extra]
-image = "/images/project-1.jpg"
+image = "/images/project-1a.jpg"
 +++
 
 ## MAE 4220 Course Intro
