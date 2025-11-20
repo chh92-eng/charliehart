@@ -4,7 +4,7 @@ description = "MAE 4272: Aerodynamics and Wing Theory — Blade Design Project"
 date = 2025-10-15
 template = "project.html"
 [extra]
-image = "images/charlie_mog.jpg"
+image = "images/project-3.jpg"
 +++
 
 
