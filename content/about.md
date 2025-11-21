@@ -14,7 +14,7 @@ I grew up in the North Bay, just south of Sonoma and Napa—an area shaped by st
 That experience sparked my interest in sustainable mobility, rail systems, and the engineering decisions behind how cities function. I care deeply about improving transportation in the Bay Area—especially in the North Bay, where transit access is limited. Exploring San Francisco, Oakland, and Berkeley has further shaped my interest in how infrastructure, planning, and engineering influence the daily lives of the people they serve.
 
 ## Education & Experience
-I am a fourth-year Mechanical Engineering student at Cornell University and will begin my Master of Engineering in Systems Engineering this January through Cornell’s integrated undergraduate–graduate program.
+I am a fourth-year Mechanical Engineering student at Cornell University and will begin my Master of Engineering in Systems Engineering this January through Cornell’s integrated undergraduate–graduate program. I expect to graduate in December of 2026.
 
 My work spans mechanical design, prototyping, computational modeling, and systems thinking. I’ve contributed to projects involving rover wheel design, LoRaWAN device development, wind-turbine blade optimization, and internal-combustion engine analysis—experiences that have strengthened both my technical foundation and my ability to work across multidisciplinary teams.
 
