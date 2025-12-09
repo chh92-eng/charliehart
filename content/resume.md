@@ -6,7 +6,7 @@ date = 2025-01-01
 +++
 
 <iframe 
-  src="https://chh92-eng.github.io/charliehart/files/Charlie_Hart_Resume.pdf"
+  src="https://chh92-eng.github.io/charliehart/files/Hart_Charles_Resume.pdf"
   style="
     width:95%;
     max-width:1100px;
@@ -21,7 +21,7 @@ date = 2025-01-01
 </iframe>
 
 <div style="text-align:center;">
-  <a href="https://chh92-eng.github.io/charliehart/files/Charlie_Hart_Resume.pdf"
+  <a href="https://chh92-eng.github.io/charliehart/files/Hart_Charles_Resume.pdf"
      target="_blank"
      style="font-size:1rem; text-decoration:none; color:#0077cc;">
      Download PDF →
