@@ -96,3 +96,17 @@ If this project were continued, several refinements could be explored to better 
 
 These adjustments would help bridge the gap between the original design assumptions and the conditions under which the blade actually performed best.
 
+## Final Report
+
+The complete technical report is available for download below.
+
+<div style="text-align:center;">
+  <a href="/files/MAE_4272_Final_Report.pdf"
+     target="_blank"
+     style="font-size:1rem; text-decoration:none; color:#0077cc;">
+     Download Final Report →
+  </a>
+</div>
+
+
+
