@@ -100,13 +100,7 @@ These adjustments would help bridge the gap between the original design assumpti
 
 The complete technical report is available for download below.
 
-<div style="text-align:center;">
-  <a href="/files/MAE_4272_Final_Report.pdf"
-     target="_blank"
-     style="font-size:1rem; text-decoration:none; color:#0077cc;">
-     Download Final Report →
-  </a>
-</div>
+<a href="/charliehart/files/MAE_4272_Final_Report.pdf" target="_blank">Download Final Report →</a>
 
 
 
