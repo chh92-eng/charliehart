@@ -6,7 +6,7 @@ date = 2025-01-01
 +++
 
 <iframe 
-  src="/files/Hart_Charles_Resume.pdf"
+  src="/charliehart/files/Hart_Charles_Resume.pdf"
   style="
     width:95%;
     max-width:1100px;
@@ -21,7 +21,7 @@ date = 2025-01-01
 </iframe>
 
 <div style="text-align:center;">
-  <a href="/files/Hart_Charles_Resume.pdf"
+  <a href="/charliehart/files/Hart_Charles_Resume.pdf"
      target="_blank"
      style="
         font-size:1rem;
