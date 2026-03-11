@@ -12,9 +12,11 @@
       description = page.description
   ) }}
 
+  {# 
   {% if page.extra.image %}
     {{ page_image::page_image(image = page.extra.image, image_alt = page.title) }}
   {% endif %}
+  #}
 
   <div class="page animate">
     {{ page.content | safe }}
