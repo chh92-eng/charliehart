@@ -132,7 +132,7 @@ Many successful pedestrian downtowns create visible energy through signage, even
 
 ## Ideas Along the Way
 
-Throughout the process, I utilized AI models to generate mock images of concepts I was curious about to help explain and visualize my ideas. While most of these never came to fruition, I wanted to include some of my favorites because I found them super cool.
+Throughout the process, I utilized AI models to generate mock images of concepts I was curious about to help explain and visualize my ideas. While most of these were never heavily explored, I wanted to include some of my favorites, because I found them super cool.
 
 **The images below are all generated using AI:**
 
