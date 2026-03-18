@@ -4,7 +4,7 @@ description = "A systems design study analyzing how Cornell students interact wi
 date = 2025-10-17
 template = "project.html"
 [extra]
-image = "images/project-4.jpeg"
+image = "images/project-4.png"
 +++
 
 
