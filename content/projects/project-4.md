@@ -130,6 +130,68 @@ One of the most important insights from the project was that the Commons is not 
 
 Many successful pedestrian downtowns create visible energy through signage, events, recognizable brands, and interactive public spaces. By introducing clearer navigation, activity anchors, and better connections to campus transportation, the Commons could become a natural extension of student life rather than an occasional destination.
 
+## Ideas Along the Way
+
+Throughout the process, I utilized AI models to generate mock images of concepts I was curious about to help explain and visualize my ideas. While most of these never came to fruition, I wanted to include some of my favorites because I found them super cool.
+
+**The images below are all generated using AI:**
+
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:2rem; flex-wrap:wrap; margin:2rem 0;">
+
+  <!-- First image -->
+  <div style="text-align:center;">
+    <div style="width:360px; height:200px; display:flex; align-items:center; justify-content:center;">
+      <img src="../../images/project-4-uo1.jpeg"
+           alt="TCAT Information Concept"
+           style="max-width:100%; max-height:100%; object-fit:contain; border-radius:1rem;">
+    </div>
+    <p style="font-size:0.95rem; color:#111; margin-top:0.5rem;">
+      Ithaca Bus Terminal, First Floor Lounge
+    </p>
+  </div>
+
+  <!-- Second image -->
+  <div style="text-align:center;">
+    <div style="width:365px; height:200px; display:flex; align-items:center; justify-content:center;">
+      <img src="../../images/project-4-uo2.jpeg"
+           alt="E-Bike Dock Concept"
+           style="max-width:100%; max-height:100%; object-fit:contain; border-radius:1rem;">
+    </div>
+    <p style="font-size:0.95rem; color:#111; margin-top:0.5rem;">
+      Ithaca Bus Terminal, Second Floor Museum
+    </p>
+  </div>
+
+</div>
+
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:2rem; flex-wrap:wrap; margin:2rem 0;">
+
+  <!-- First image -->
+  <div style="text-align:center;">
+    <div style="width:360px; height:200px; display:flex; align-items:center; justify-content:center;">
+      <img src="../../images/project-4.png"
+           alt="TCAT Information Concept"
+           style="max-width:100%; max-height:100%; object-fit:contain; border-radius:1rem;">
+    </div>
+    <p style="font-size:0.95rem; color:#111; margin-top:0.5rem;">
+      Improved Ithaca Bikeshare Dock
+    </p>
+  </div>
+
+  <!-- Second image -->
+  <div style="text-align:center;">
+    <div style="width:365px; height:200px; display:flex; align-items:center; justify-content:center;">
+      <img src="../../images/project-4-ci.jpeg"
+           alt="E-Bike Dock Concept"
+           style="max-width:100%; max-height:100%; object-fit:contain; border-radius:1rem;">
+    </div>
+    <p style="font-size:0.95rem; color:#111; margin-top:0.5rem;">
+      Renovated Center Ithaca Interior
+    </p>
+  </div>
+
+</div>
+
 ## Final Report
 
 The complete presentation describing our research process, systems modeling, and design proposals is available below.
