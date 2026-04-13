@@ -1,14 +1,39 @@
 +++
-title = "Student-Centered Downtown Revitalization Study"
-description = "A systems design study analyzing how Cornell students interact with the Ithaca Commons and identifying opportunities to strengthen downtown engagement"
-date = 2025-10-17
+title = "Cornell University Sustainable Design"
+description = "A series of projects dedicated towards increasing student interaction with local businesses and transportation networks"
+date = 2025-10-20
 template = "project.html"
 [extra]
-image = "images/project-4.png"
+image = "images/project-4-title.jpg"
 +++
 
 
-## Overview
+# Overview
+
+
+<p style="text-align:justify;">
+  <a href="https://www.cusd.cornell.edu/" target="_blank" style="text-decoration:none;">
+    <figure style="float:right; width:260px; margin:0 0 1rem 1.5rem;">
+      <img src="/images/project-4-cusd.png"
+           alt="CUSD Logo"
+           style="width:100%; border-radius:0.75rem; display:block;">
+      <figcaption style="font-size:0.9rem; color:#111;">Cornell University Sustainable Design</figcaption>
+    </figure>
+  </a>
+
+  Cornell University Sustainable Design (CUSD) is a student-led organization that partners with local communities to develop sustainable infrastructure, mobility, and urban design solutions. As a member of both the City and Mobility teams, my work spans community engagement and technical design.
+  
+  On the City team, as a member of the Branding Subteam, I collaborate with local businesses and the Downtown Ithaca Alliance to improve brand visibility and promote community events, including initiatives such as promoting the Ithaca Chili Cook-Off. I am also leading a project focused on analyzing student usage of the TCAT bus system, using fieldwork and systems thinking to identify barriers to ridership and opportunities for improvement.
+  
+  On the Mobility team, I contribute to the mechanical design of a modular structure, specifically developing the base connection between wooden modules and the ground. A prototype of this system was recently presented at a public gala, showcasing the team’s progress and community impact.
+
+</p>
+
+<div>
+<br>
+</div>
+
+# Commons Engagement Study (SYSEN 5740 Course)
 
 <p style="text-align:justify;">
   <figure style="float:right; width:380px; margin:0 0 1rem 1.5rem; text-align:center;">
@@ -18,12 +43,12 @@ image = "images/project-4.png"
     <figcaption style="font-size:0.9rem; color:#111;">The Ithaca Commons</figcaption>
   </figure>
 
-This project examined how the Ithaca Commons could be redesigned to better engage Cornell University students. Although the Commons serves as Ithaca’s primary pedestrian downtown space, members of the Downtown Ithaca Alliance have identified a persistent challenge: many students rarely visit the area or view it as part of their everyday routine. Over the course of this seven-week study, our team investigated the causes of this disconnect through observation, user engagement, and spatial analysis. The objective was to identify barriers to student participation and develop design opportunities that could make the Commons feel more welcoming, visible, and integrated into student life.
-
-Using a systems design thinking approach, we investigated how different groups of students interact with the Commons and what barriers prevent them from engaging with the space. Rather than assuming a single solution, we analyzed the Commons as a complex social system involving transportation, visibility of businesses, public space design, and student behavior patterns.
+This project examined how the Ithaca Commons could be redesigned to better engage Cornell students. Although it serves as Ithaca’s primary pedestrian downtown, many students do not view it as part of their daily routine. Over this seven-week study, we identified barriers to engagement and explored opportunities to better integrate the Commons into student life.
+<br><br>
+We approached the problem using a systems design framework, treating the Commons as a system shaped by transportation, visibility, public space design, and student behavior. The process followed three phases: <strong>empathy fieldwork, system modeling,</strong> and <strong>concept development</strong>.
 </p>
 
-## Empathy Fieldwork
+<h3>Empathy Fieldwork</h3>
 
 <p style="text-align:justify; margin-bottom:2.5rem;">
   <figure style="float:right; width:300px; margin:0 0 1rem 1.5rem; text-align:center;">
@@ -33,72 +58,57 @@ Using a systems design thinking approach, we investigated how different groups o
     <figcaption style="font-size:0.9rem; color:#111;">Empathy Fieldwork Episode</figcaption>
   </figure>
 
-The first phase of the project focused on **empathy fieldwork**, where our team conducted observations and interviews with people using the Commons. We explored the space ourselves, spoke with students and visitors, and recorded behaviors, needs, and unexpected findings.
-
-These field experiences were organized into **episodes**, which captured interactions such as student visits, interviews, and observations. From these episodes we extracted **Needs, Insights, and Surprises (NIS)** — short statements that summarized the motivations and barriers students experience when interacting with the Commons.
-
-Across all of our fieldwork, a recurring theme emerged: students often said that once they arrived at the Commons it was enjoyable to stay and explore, but **getting there and discovering what exists was difficult**. Many students also described the Commons as something they visit for specific events rather than a spontaneous place to spend time.
+We began with <strong>empathy fieldwork</strong>, conducting observations and interviews with students and visitors. These interactions were documented as <strong>episodes</strong>.
+<br><br>
+From these, we extracted <strong>Needs, Insights, and Surprises (NIS)</strong> to identify recurring patterns. A consistent finding emerged: students enjoy the Commons once there, but getting there and discovering what exists are key barriers.
 </p>
 
-## System Modeling
+<h3>System Modeling</h3>
 
-To better understand these patterns, our team modeled the system using systems engineering tools. We categorized student populations into four primary groups:
-
-- Undergraduate domestic students  
-- Undergraduate international students  
-- Graduate domestic students  
-- Graduate international students  
-
-Across these groups, we unpacked **56 episodes and identified over 200 Needs, Insights, and Surprises** that describe how students experience the Commons.
+<p style="text-align:justify;">
+We translated these observations into a structured system model. Students were grouped into four populations, and across them we analyzed 50+ episodes and 200+ NIS statements.
+<br><br>
+We developed <strong>personas</strong> to represent different behaviors and motivations, revealing system-level friction points such as transportation gaps, low visibility, and limited awareness of businesses.
+</p>
 
 <div style="text-align:center; margin:2rem 0;">
   <img src="../../images/project-4-miro.jpeg"
        alt="Episode Unpacking & Needs Modeling"
        style="max-width:650px; width:100%; height:auto; border-radius:1rem; display:block; margin:0 auto;">
-  
   <p style="font-size:0.95rem; color:#111; margin-top:0.5rem;">
     Episode Unpacking & Needs Modeling
   </p>
 </div>
 
-We also developed **personas** representing different student lifestyles and motivations. These personas helped us move beyond generalizations and focus on how specific types of students interact with the space. For example:
-
-- Students seeking a **third space** outside of dorms and libraries  
-- International students expecting **visible urban activity and cultural signals**  
-- Graduate students looking for **low-pressure social environments and affordable food options**
-
-By mapping these personas and their interactions with the Commons, we were able to identify systemic friction points such as transportation barriers, lack of visible activity, and limited awareness of businesses.
+<p style="text-align:justify;">
+Mapping these personas clarified how different students interact with the Commons and where breakdowns occur.
+</p>
 
 <div style="text-align:center; margin:2rem 0;">
   <img src="../../images/project-4-personas.jpeg"
-       alt="Episode Unpacking & Needs Modeling"
+       alt="Personas Context Diagram"
        style="max-width:650px; width:100%; height:auto; border-radius:1rem; display:block; margin:0 auto;">
-  
   <p style="font-size:0.95rem; color:#111; margin-top:0.5rem;">
     Personas Context Diagram
   </p>
 </div>
 
-## Brainstorming & Prototyping
+<h3>Concept Development</h3>
 
-After understanding the system, we moved into a collaborative brainstorming phase. Our team generated a wide range of potential interventions and organized them using a **Go / See / Do framework**, which focused on improving:
+<p style="text-align:justify;">
+We then generated and evaluated solutions using a <strong>Go / See / Do framework</strong>, focusing on how students travel to the Commons, what they see, and what encourages them to stay.
+</p>
 
-- **How students travel to the Commons**
-- **What they see and discover once they arrive**
-- **What activities give them reasons to stay**
-
-These ideas were then evaluated through student feedback sessions where we tested how well different concepts resonated with the personas we developed earlier.
-
-Several concepts consistently received strong validation, including:
-
-- **Improved TCAT transit information** to reduce friction in traveling between campus and the Commons  
-- **Micromobility hubs such as e-bike docks** to support first- and last-mile transportation  
-- **Improved directories and signage** to help students discover businesses and second-floor spaces  
-- **Activity-based attractions** such as paddle sports, workshops, and public art installations that give students a clear reason to visit  
+<ul>
+  <li>Improved TCAT transit visibility and information</li>
+  <li>Micromobility infrastructure (e.g., e-bike docks)</li>
+  <li>Clearer signage and directories</li>
+  <li>Activity-based programming to create visible energy</li>
+  <li>Public Art Installations</li>
+</ul>
 
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:2rem; flex-wrap:wrap; margin:2rem 0;">
 
-  <!-- First image -->
   <div style="text-align:center;">
     <div style="width:360px; height:200px; display:flex; align-items:center; justify-content:center;">
       <img src="../../images/project-4-tcat.jpeg"
@@ -110,7 +120,6 @@ Several concepts consistently received strong validation, including:
     </p>
   </div>
 
-  <!-- Second image -->
   <div style="text-align:center;">
     <div style="width:365px; height:200px; display:flex; align-items:center; justify-content:center;">
       <img src="../../images/project-4-ebike.jpeg"
@@ -124,82 +133,64 @@ Several concepts consistently received strong validation, including:
 
 </div>
 
-## Key Insight
+<h3>Conclusion</h3>
 
-One of the most important insights from the project was that the Commons is not lacking destinations — rather, **students lack clear signals that something is happening there**.
-
-Many successful pedestrian downtowns create visible energy through signage, events, recognizable brands, and interactive public spaces. By introducing clearer navigation, activity anchors, and better connections to campus transportation, the Commons could become a natural extension of student life rather than an occasional destination.
-
-## Ideas Along the Way
-
-Throughout the process, I utilized AI models to generate mock images of concepts I was curious about to help explain and visualize my ideas. While most of these were never heavily explored, I wanted to include some of my favorites, because I found them super cool.
-
-**The images below are all generated using AI:**
-
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:2rem; flex-wrap:wrap; margin:2rem 0;">
-
-  <!-- First image -->
-  <div style="text-align:center;">
-    <div style="width:360px; height:200px; display:flex; align-items:center; justify-content:center;">
-      <img src="../../images/project-4-uo1.jpeg"
-           alt="TCAT Information Concept"
-           style="max-width:100%; max-height:100%; object-fit:contain; border-radius:1rem;">
-    </div>
-    <p style="font-size:0.95rem; color:#111; margin-top:0.5rem;">
-      Ithaca Bus Terminal, First Floor Lounge
-    </p>
-  </div>
-
-  <!-- Second image -->
-  <div style="text-align:center;">
-    <div style="width:365px; height:200px; display:flex; align-items:center; justify-content:center;">
-      <img src="../../images/project-4-uo2.jpeg"
-           alt="E-Bike Dock Concept"
-           style="max-width:100%; max-height:100%; object-fit:contain; border-radius:1rem;">
-    </div>
-    <p style="font-size:0.95rem; color:#111; margin-top:0.5rem;">
-      Ithaca Bus Terminal, Second Floor Museum
-    </p>
-  </div>
-
-</div>
-
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:2rem; flex-wrap:wrap; margin:2rem 0;">
-
-  <!-- First image -->
-  <div style="text-align:center;">
-    <div style="width:360px; height:200px; display:flex; align-items:center; justify-content:center;">
-      <img src="../../images/project-4.png"
-           alt="TCAT Information Concept"
-           style="max-width:100%; max-height:100%; object-fit:contain; border-radius:1rem;">
-    </div>
-    <p style="font-size:0.95rem; color:#111; margin-top:0.5rem;">
-      Improved Ithaca Bikeshare Dock
-    </p>
-  </div>
-
-  <!-- Second image -->
-  <div style="text-align:center;">
-    <div style="width:365px; height:200px; display:flex; align-items:center; justify-content:center;">
-      <img src="../../images/project-4-ci.jpeg"
-           alt="E-Bike Dock Concept"
-           style="max-width:100%; max-height:100%; object-fit:contain; border-radius:1rem;">
-    </div>
-    <p style="font-size:0.95rem; color:#111; margin-top:0.5rem;">
-      Renovated Center Ithaca Interior
-    </p>
-  </div>
-
-</div>
-
-## Final Report
-
-The complete presentation describing our research process, systems modeling, and design proposals is available below.
+<p style="text-align:justify;">
+The Commons is not lacking destinations — rather, <strong>students lack clear signals that something is happening there</strong>. Strengthening visibility, activity, and transportation connections can make the Commons a natural extension of student life.
+</p>
 
 <p style="text-align:center; margin-top:2rem;">
   <a href="/charliehart/files/Presentation_1.pdf" target="_blank">
-    Download Final Presentation →
+    View Full SYSEN 5740 Presentation →
   </a>
 </p>
 
+<div>
+<br>
+</div>
 
+# CUSD City
+
+<p style="text-align:justify;">
+Building on the systems design process developed in SYSEN 5740, I have continued this work as a member of the CUSD City team, applying and teaching the same framework to a smaller group. Our focus has shifted specifically to student usage of the TCAT bus system between campus and the Ithaca Commons. Using empathy fieldwork, system modeling, and iterative concept development, we are working to understand the barriers that prevent students from integrating TCAT into their daily routines and to develop targeted, system-level interventions.
+</p>
+
+<p style="text-align:justify;">
+Through this work, I began to notice a recurring pattern: inclement weather significantly impacts the experience of waiting for the bus. To better understand this, I conducted independent fieldwork across multiple TCAT stops, documenting their location relative to campus, the presence of seating and shelter, and any additional features that affect usability. I also recorded the geographic coordinates of each stop and compiled this data into an ArcGIS Online map, allowing for a spatial analysis of coverage, accessibility, and infrastructure gaps across the system.
+</p>
+
+<script type="module" src="https://js.arcgis.com/5.0/embeddable-components/"></script>
+
+<div style="display:flex; justify-content:center; margin:2rem 0;">
+  <arcgis-embedded-map
+    style="height:600px; width:100%; max-width:800px; border-radius:1rem;"
+    item-id="5e06bdf3f8024a3d94d0305e0022a5d5"
+    theme="light"
+    heading-enabled
+    legend-enabled
+    scroll-enabled
+    time-zone-label-enabled
+    center="-76.4826,42.4487"
+    scale="18055"
+    portal-url="https://www.arcgis.com">
+  </arcgis-embedded-map>
+</div>
+
+<div>
+<br>
+</div>
+
+# CUSD Mobility
+
+<p style="text-align:justify;">
+In parallel, I contribute to the CUSD Mobility team, where I am part of a mechanical design effort focused on developing a modular, sustainable bus shelter. This work complements the systems-level analysis from the City team by translating identified user needs, such as protection from weather, into physical design solutions that improve the waiting experience and support increased transit use. A prototype of this shelter was recently exhibited at the Ithaca Airport during the “Where Culture Takes Flight” gala, where our team presented the design and assembled the structure for public display.
+</p>
+
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:1rem; margin:2rem 0;">
+  <iframe src="https://www.youtube.com/embed/Q1LwLR9j6Z0"
+          title="Constructing the Prototype"
+          style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; border-radius:1rem;"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+</div>
