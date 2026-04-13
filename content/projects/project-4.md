@@ -1,6 +1,6 @@
 +++
 title = "Cornell University Sustainable Design"
-description = "A series of projects dedicated towards increasing student interaction with local businesses and transportation networks"
+description = "Systems-driven work focused on improving how students engage with local businesses and public transportation in Ithaca"
 date = 2025-10-20
 template = "project.html"
 [extra]
