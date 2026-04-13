@@ -66,9 +66,7 @@ From these, we extracted <strong>Needs, Insights, and Surprises (NIS)</strong> t
 <h3>System Modeling</h3>
 
 <p style="text-align:justify;">
-We translated these observations into a structured system model. Students were grouped into four populations, and across them we analyzed 50+ episodes and 200+ NIS statements.
-<br><br>
-We developed <strong>personas</strong> to represent different behaviors and motivations, revealing system-level friction points such as transportation gaps, low visibility, and limited awareness of businesses.
+We translated these observations into a structured system model. Students were grouped into four populations, and across them we analyzed 50+ episodes and 200+ NIS statements. We then developed <strong>personas</strong> to represent different behaviors and motivations, revealing system-level friction points such as transportation gaps, low visibility, and limited awareness of businesses.
 </p>
 
 <div style="text-align:center; margin:2rem 0;">
