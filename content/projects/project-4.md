@@ -10,9 +10,6 @@ image = "images/project-4-title.jpg"
 
 # Overview
 
-
-<h2>Overview</h2>
-
 <a href="https://www.cusd.cornell.edu/" target="_blank" style="text-decoration:none; color:inherit;">
   <figure style="float:right; width:260px; margin:0 0 1rem 1.5rem; text-align:center;">
     <img src="/charliehart/images/project-4-cusd.png"
