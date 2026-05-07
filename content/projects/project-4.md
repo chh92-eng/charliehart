@@ -198,3 +198,8 @@ In parallel, I contribute to the CUSD Mobility team, where I am part of a mechan
           allowfullscreen>
   </iframe>
 </div>
+
+<a href="https://news.cornell.edu/stories/2026/04/cornell-students-envision-ithaca-airport-community-hub" target="_blank">
+Read the Cornell News article about the project
+</a>
+</p>
