@@ -16,7 +16,7 @@ That experience sparked my interest in sustainable mobility, rail systems, and t
 
 
 ## Education & Experience
-I graduated from Cornell University with a Bachelor of Science in Mechanical Engineering and am currently completing a Master of Engineering in Systems Engineering through Cornell’s integrated undergraduate–graduate program, with an expected graduation date of December 2026.
+I graduated Cum Laude from Cornell University with a Bachelor of Science in Mechanical Engineering and am currently completing a Master of Engineering in Systems Engineering through Cornell’s integrated undergraduate–graduate program, with an expected graduation date of December 2026.
 
 As a mechanical engineering student, I focused on design, analysis, and prototyping. My projects have included rover wheel development, LoRaWAN device design, wind-turbine blade optimization, internal-combustion engine analysis, and structural component development for sustainable infrastructure systems.
 
