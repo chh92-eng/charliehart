@@ -186,8 +186,33 @@ Through this work, I began to notice a recurring pattern: inclement weather sign
 
 # CUSD Mobility
 
+## Modular Bus Shelter Base Design Project
+
 <p style="text-align:justify;">
-In parallel, I contribute to the CUSD Mobility team, where I am part of a mechanical design effort focused on developing a modular, sustainable bus shelter. This work complements the systems-level analysis from the City team by translating identified user needs, such as protection from weather, into physical design solutions that improve the waiting experience and support increased transit use. A prototype of this shelter was recently exhibited at the Ithaca Airport during the “Where Culture Takes Flight” gala, where our team presented the design and assembled the structure for public display.
+In parallel, I contribute to the CUSD Mobility team, where I spent the Spring 2026 semester helping to develop a modular, sustainable bus shelter intended for deployment in Ithaca and other transit environments. My work focuses on the structural design of the shelter’s base-to-foundation connection, which serves as the interface between the wooden shelter modules and the ground support system.
+
+<div style="text-align:center; margin:2rem 0;">
+  <img src="../../images/project-4-cad.jpg"
+       alt="Bus Shelter Base-to-Foundation Connection CAD"
+       style="max-width:650px; width:100%; height:auto; border-radius:1rem; display:block; margin:0 auto;">
+  <p style="font-size:0.95rem; color:#111; margin-top:0.5rem;">
+    Bus Shelter Base-to-Foundation Connection CAD
+  </p>
+</div>
+
+For this work, I designed and analyzed a connection system capable of resisting wind, snow, ice, and dead loading conditions in accordance with ASCE design standards. Using CAD, hand calculations, and finite element analysis in ANSYS, I evaluated support columns, welded connections, bolted assemblies, and wood-to-steel interfaces to refine the design while preserving the modularity, manufacturability, and architectural intent of the shelter. The resulting analysis was later expanded into my Mechanical Engineering senior design project, which received the <strong>Howard E. McManus Design Award</strong> from Cornell's Sibley School of Mechanical and Aerospace Engineering.
+
+<p style="text-align:center; margin-top:2rem;">
+  <a href="/charliehart/files/Senior_Design.pdf" target="_blank">
+    View Full Senior Design Report →
+  </a>
+</p>
+<br><br>
+
+## Where Culture Takes Flight Exposition
+
+<p style="text-align:justify;">
+A 1:2.5-scale prototype of the shelter was exhibited at the Ithaca Tompkins International Airport during the <em>Where Culture Takes Flight</em> gala. The event brought together students, community members, and local stakeholders to showcase design proposals for the future of the airport campus. Our team assembled the prototype on site and presented the project to attendees throughout the exhibition.
 </p>
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:1rem; margin:2rem 0;">
@@ -199,7 +224,8 @@ In parallel, I contribute to the CUSD Mobility team, where I am part of a mechan
   </iframe>
 </div>
 
-<a href="https://news.cornell.edu/stories/2026/04/cornell-students-envision-ithaca-airport-community-hub" target="_blank">
-Read the Cornell News article about the project
-</a>
+<p style="text-align:center; margin-top:2rem;">
+  <a href="https://news.cornell.edu/stories/2026/04/cornell-students-envision-ithaca-airport-community-hub" target="_blank">
+    Read the Cornell News article about the project →
+  </a>
 </p>

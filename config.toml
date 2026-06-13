@@ -56,7 +56,7 @@ social_icons = [
 [[extra.content_blocks]]
 block = "hero"
 title = "Charlie Hart"
-description_html = "Student at Cornell University pursuing a <strong>B.S. in Mechanical Engineering</strong> and an <strong>M.Eng. in Systems Engineering</strong>. Passionate about transportation, planning, and sustainability."
+description_html = "Cornell University graduate with a <strong>B.S. in Mechanical Engineering</strong> and current <strong>M.Eng. candidate in Systems Engineering</strong>. Interested in transportation systems, vehicle engineering, and sustainable mobility."
 image = "/images/charlie1.jpg"
 image_alt = "Charlie Hart headshot"
 cta_button_link = "/projects"
