@@ -181,4 +181,110 @@
       .project-card__link[href*="project-3"] .project-card__image {
         object-position: 50% 50%;
       }
-   
+
+/* ===========================================
+   PROFESSIONAL COLOR PALETTE
+   =========================================== */
+:root {
+  --color-primary: #16324f;
+  --color-accent: #2f6b7c;
+  --color-background: #f7f8f6;
+  --color-surface: #ffffff;
+  --color-text: #202936;
+  --color-text-muted: #5b6775;
+  --color-border: #d9e0e4;
+}
+
+/* Page and typography */
+body {
+  color: var(--color-text);
+  background-color: var(--color-background);
+}
+
+a,
+.logo__link,
+.nav__link {
+  color: var(--color-text);
+}
+
+a:hover,
+.logo__link:hover,
+.nav__link:hover {
+  color: var(--color-accent);
+}
+
+/* Active navigation */
+.nav__link.active-link,
+.nav__link.cc-active {
+  color: var(--color-accent) !important;
+}
+
+.nav__link.active-link::after {
+  background-color: var(--color-accent) !important;
+}
+
+/* Primary buttons */
+.c-button--primary {
+  color: #fff;
+  background: var(--color-primary);
+}
+
+.c-button--primary::before {
+  background: var(--color-accent);
+}
+
+/* Secondary hero link icon */
+.c-hero__btn .works-button .circle-bg {
+  background: var(--color-accent);
+}
+
+/* Project hover overlays */
+.project-card__info {
+  background: linear-gradient(
+    to top,
+    rgba(22, 50, 79, 0.92),
+    rgba(47, 107, 124, 0.35)
+  );
+}
+
+.c-project-card__image::before {
+  background: linear-gradient(
+    to top,
+    rgba(22, 50, 79, 0.92),
+    rgba(47, 107, 124, 0.3)
+  );
+}
+
+/* Previous and next project navigation */
+.post__navigation .post__prev,
+.post__navigation .post__next {
+  background: linear-gradient(
+    135deg,
+    var(--color-primary),
+    var(--color-accent)
+  );
+}
+
+/* Footer */
+.footer {
+  background: linear-gradient(
+    135deg,
+    var(--color-primary),
+    var(--color-accent)
+  );
+}
+
+.footer .social .social__link {
+  color: var(--color-primary);
+}
+
+/* Mobile navigation */
+@media only screen and (max-width: 1024px) {
+  .main-nav {
+    background: var(--color-surface);
+  }
+
+  .main-nav__box .nav__icon-close {
+    background: var(--color-primary);
+  }
+}

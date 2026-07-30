@@ -3,7 +3,7 @@ title = "Charlie Hart"
 
 # The URL the site will be built for
 base_url = "https://chh92-eng.github.io/charliehart"
-
+output_dir = "docs"
 
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -46,9 +46,15 @@ social_icons = [
     { url = "mailto:chh92@cornell.edu", icon = "/icons/mail.svg" }
 ]
 
-
-
-
+[extra.footer]
+menu = [
+    { url = "$BASE_URL", title = "Home" },
+    { url = "$BASE_URL/projects/", title = "Projects" },
+    { url = "$BASE_URL/about/", title = "About" },
+    { url = "$BASE_URL/resume/", title = "Resume" },
+    # { url = "$BASE_URL/elements/", title = "Elements" },
+    # { url = "$BASE_URL/posts/", title = "Blog" },
+]
 # completely override the theme’s content blocks
 # you can copy this whole section into your personal config.toml
 
@@ -90,4 +96,3 @@ show_projects = true
 # form_success_page = ''
 # form_submission_email = "chh92@cornell.edu"
 # form_button_text = "Send"
-

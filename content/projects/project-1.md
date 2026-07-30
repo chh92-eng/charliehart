@@ -3,6 +3,7 @@ date = "2025-10-16"
 draft = false
 title = "LoRaWAN Coverage Mapper"
 description = "Mapping the range of a LoRaWAN gateway for municipal IoT use cases"
+template = "project.html"
 [extra]
 image = "/images/project-1a.jpg"
 +++
